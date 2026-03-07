@@ -1,1 +1,0 @@
-⚠️ _Kirim / balas media dengan caption *.upgh*_
