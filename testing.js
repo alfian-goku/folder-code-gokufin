@@ -1,0 +1,1 @@
+Isi nama file / judul file yg ku lingkari , setiap code pakein *.js* udh lu tinggal paste code di situ ( warna merah ) udh? Klik commit change lalu klik lagi kek gitu "commit" atau buat
